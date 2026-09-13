@@ -1,6 +1,8 @@
 # Samriddhi Maurya — Marketing Portfolio
 
-PGDM Marketing student building practical experience in B2B marketing, lead generation, brand strategy, consumer understanding, and digital marketing.
+PGDM Marketing student building practical experience through academic projects and hands-on marketing work.
+
+My interests include B2B marketing, lead generation, business development, brand strategy, consumer understanding, and digital marketing.
 
 ## Projects
 
@@ -10,7 +12,7 @@ A practical B2B lead generation project focused on identifying potential busines
 
 **Focus:** B2B Marketing · Lead Generation · Market Research · Business Development
 
-[View Project →](./01_B2B_Lead_Generation)
+[View Project](./01_B2B_Lead_Generation)
 
 ---
 
@@ -20,10 +22,29 @@ A brand strategy project focused on understanding the brand, identifying the tar
 
 **Focus:** Brand Management · Consumer Understanding · Positioning · Marketing Strategy
 
-[View Project →](./02_Zero_Rules_Brand_Strategy)
+[View Project](./02_Zero_Rules_Brand_Strategy)
+
+---
+
+## Marketing Areas
+
+- B2B Marketing
+- Lead Generation
+- Market Research
+- Business Development
+- Brand Strategy
+- Consumer Understanding
+- Digital Marketing
+- Marketing Analytics
 
 ## About Me
 
-I am a PGDM Marketing student interested in roles across B2B marketing, business development, lead generation, brand management, and digital marketing.
+I am a PGDM Marketing student interested in building a career in marketing, business development, and growth-oriented roles.
 
-This portfolio showcases my academic projects and practical marketing work.
+This portfolio showcases selected academic projects and practical marketing work, demonstrating my approach to research, consumer understanding, strategy, and problem-solving.
+
+## Contact
+
+**LinkedIn:** (https://www.linkedin.com/in/samriddhi-maurya-b5aa25299/)
+
+**Email:** [27-samriddhi.maurya@fiib.edu.in]
